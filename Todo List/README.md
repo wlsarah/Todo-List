@@ -31,7 +31,7 @@ Added Camera to allow user to take photos for todo list
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+http://imgur.com/a/PvmwV
 <img src='http://i.imgur.com/a/PvmwV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
